@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "lecture5_ii_stack.h"
+#include "5b_stack.h"
 
 int main() {
     stack s;

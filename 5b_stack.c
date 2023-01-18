@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-#include "lecture5_ii_stack.h"
+#include "5b_stack.h"
 
 void StackNew(stack *s) {
     s->logicalLength = 0;
